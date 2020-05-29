@@ -1,6 +1,6 @@
 ## SIMPLE CODE DEFERENCE AGREEMENT (SCoDA)
 
-___________ /*NAME*/(“***Party A***”) controls the private key uniquely associated with Account Address 0x________ /*ADDRESS*/ on the Designated Blockchain. ______ /*NAME*/(“***Party Z***”) controls the private key uniquely associated with Account Address 0x________ /*ADDRESS*/. For good and valuable consideration, the receipt and sufficiency of which is hereby acknowledged, the Parties hereby enter into this Simple Code Deference Agreement (this "***Agreement***") as of ______ /*DATE AND TIME*/ (the “***Effective Time***”).
+___________ /*NAME*/(“***Party A***”) controls the private key uniquely associated with Account Address 0x________ /*ADDRESS*/ on the Designated Blockchain. ______ /*NAME*/(“***Party Z***”) controls the private key uniquely associated with Account Address 0x________ /*ADDRESS*/. For good and valuable consideration, the receipt and adequacy of which is hereby acknowledged, the Parties hereby enter into this Simple Code Deference Agreement (this "***Agreement***") as of ______ /*DATE AND TIME*/ (the “***Effective Time***”).
 
 **1. Subject Property**
 
@@ -10,7 +10,7 @@ ___________ /*NAME*/(“***Party A***”) controls the private key uniquely asso
 
 (ii) The Designated Tokens required to be deposited into the Designated Smart Contract, together with any Token proceeds thereof, Token earnings thereon or other Token amounts that are received or transmitted by the Designated Smart Contract during the term of this Agreement, are referred to herein as the “***Subject Property***.” Any Subject Property that has been Transferred to a Party by the Designated Smart Contract is referred to herein as such Party’s “***Distributed Subject Property***.”
 
-(b) *Conditionality of Agreement on Deposit; Return of Partial Deposit.* The deposit of the Designated Tokens by both of the Parties by the Deposit Deadline in accordance with Section 1(a)(i) is a condition precedent to the Parties’ other rights and obligations under this Agreement. If either or both of the Parties fails to comply with Section 1(a)(i), this Agreement, other than Sections 4, 5 and 6, shall automatically and without further action of the Parties be deemed cancelled, void terminated and of no further force or effect. The Parties acknowledge and agree that the Designated Smart Contract has been programmed with the intention that, if either Party fails to comply with Section 1(a)(i),the Designated Smart Contract will promptly Transfer all Designated Tokens that were deposited to the Designated Smart Contract by a Party prior to the Deposit Deadline back to such Party’s Account Address.
+(b) *Conditionality of Agreement on Deposit; Return of Partial Deposit.* The deposit of the Designated Tokens by both of the Parties by the Deposit Deadline in accordance with Section 1(a)(i) is a condition precedent to the Parties’ other rights and obligations under this Agreement. If either or both of the Parties fails to comply with Section 1(a)(i), this Agreement, other than Sections 4, 5 and 6 or as otherwise expressly set forth herein, shall automatically and without further action of the Parties be deemed cancelled, void, terminated and of no further force or effect. The Parties acknowledge and agree that the Designated Smart Contract has been programmed with the intention that, if either Party fails to comply with Section 1(a)(i),the Designated Smart Contract will promptly Transfer all Designated Tokens that were deposited to the Designated Smart Contract by a Party prior to the Deposit Deadline back to such Party’s Account Address.
 
 **2. Effects of Designated Smart Contract**
 
@@ -18,7 +18,7 @@ ___________ /*NAME*/(“***Party A***”) controls the private key uniquely asso
 
 (i) *Smart Contract Results Binding.* Subject to Section 1 and Section 2(b): i) the results of operation of the Smart Contract shall be determinative of the rights and obligations of, and shall be final, binding upon and non-appealable by, each of the Parties with respect to the Subject Property.
 
-(ii) *Smart Contract Trumps Other Contracts.* Except as set forth in Section 2(b), if there is any conflict or inconsistency between: (A)(1) this Agreement or (2) any other Contract between or involving the Parties; and (B) any Contract created or implied by, or embodied in, the machine, assembly or other code, or the results of operation, of the Designated Smart Contract, then the Contract referred to in the preceding clause “(B)” shall prevail over the Contract referred to in the preceding clause “(A).”
+(ii) *Smart Contract Trumps Other Contracts.* Except as set forth in Section 2(b), if there is any conflict or inconsistency between: (A)(1) this Agreement or (2) any other Contract between or involving the Parties; and (B) any Contract created or implied by, or embodied in, the machine, assembly or other code, or the results of operation, of the Designated Smart Contract, then the Contract referred to in the preceding clause “(B)” shall prevail over the Contract referred to in the preceding clause “(A)” as to such conflict or inconsistency.
 
 (iii) *Prohibition of Legal Proceedings & Transfers.* Each Party shall not, without the prior written consent of the other Party, directly or indirectly take or attempt to take any of the following actions:
 
@@ -36,11 +36,11 @@ ___________ /*NAME*/(“***Party A***”) controls the private key uniquely asso
 
 (B) describing in reasonable detail the events, facts, circumstances and reasons forming the basis of such belief;
 
-(C) describing in reasonable detail a proposal by such Party of the actions to be taken, the agreements to be entered into, and the remedies to be sought by the Parties in response to the Material Adverse Exception Event an “***Exception Handling Proposal***”;
+(C) describing in reasonable detail a proposal by such Party of the actions to be taken, the agreements to be entered into, and the remedies to be sought by the Parties in response to the Material Adverse Exception Event (an “***Exception Handling Proposal***”);
 
 (D) including copies of any written evidence or other material written information, and summaries of any other evidence, relevant to, and material for the consideration of, the Material Adverse Exception Event and the other matters referred to in the Exception Notice; and
 
-(E) containing a representation by the Sending Party, made to and for the benefit of the Receiving Party with the understanding that the Receiving Party will rely thereon, that, to the Sending Party’s knowledge, the certification and statements made pursuant to the preceding clauses “(A)” and “(B)” are accurate as of the date of the Exception Notice, and, considered collectively, do not contain any untrue statement of a material fact or omit to state any material fact necessary in order to make such statements, in light of the circumstances in which they were made, not misleading.
+(E) containing a representation by the Sending Party, made to and for the benefit of the Receiving Party with the understanding that the Receiving Party will rely thereon, that, to the Sending Party’s knowledge, the certification and statements made pursuant to the preceding clauses “(A)” and “(B)” are accurate as of the date of the Exception Notice, and, considered collectively, do not contain any untrue statement of a material fact or omit any material fact necessary in order to make such statements, in light of the circumstances in which they were made, not misleading.
 
 (ii) *Exception Standstill.* During the period commencing upon the earlier of a Party becoming aware that there is a Material Adverse Exception Event or being delivered an Exception Notice and ending with the Parties entering into an Exception Handling Addendum or receiving a final decision of an arbitrator in accordance with Section 2(b)(iii) (the “***Standstill Period***”), such Party shall: (A) treat all of the Distributed Subject Property of such Party that may have been Transferred to such Party as a result of the Material Adverse Exception Event as if it were Subject Property, including by disregarding the parenthetical exceptions for Distributed Subject Property in Section 2(a)(iii); and (B) deposit and maintain such Distributed Subject Property in a segregated Account Address to be treated, to the extent permitted by applicable Legal Requirements, as a custodial trust held for the benefit of the other Party.
 
@@ -68,7 +68,7 @@ Each Party (as the "***Representing Party***") hereby represents and warrants, t
 
 (d) *Reliance on Own Due Diligence; Informed Consent.*
 
-(i) The Representing Party has received and carefully reviewed a copy of this Agreement and all code for the Designated Smart Contract sufficiently in advance of signing this Agreement. The Representing Party has been given a full and fair opportunity to: (A) to ask questions of, and to receive answers from, the other Party regarding the subject matter of this Agreement and the Designated Smart Contract and (B) to obtain any additional information that is necessary to evaluate this Agreement and the matters contemplated thereby. The Representing Party is a Person who is, or in connection with this Agreement and the matters contemplated thereby has received the advice of Persons who are, knowledgeable, sophisticated and experienced in making, and qualified to make, evaluations and decisions with respect to the quality, security and intended and expected functionality of the Designated Smart Contract and the other matters contemplated by this Agreement.
+(i) The Representing Party has received and carefully reviewed a copy of this Agreement and all code for the Designated Smart Contract sufficiently in advance of signing this Agreement. The Representing Party has been given a full and fair opportunity to: (A) to ask questions of, and to receive answers from, the other Party regarding the subject matter of this Agreement and the Designated Smart Contract, and (B) to obtain any additional information that is necessary to evaluate this Agreement and the matters contemplated thereby (including but not limited to, an audit of the Designated Smart Contract by a third party smart contract auditor, at such Representing Party's sole expense). The Representing Party is a Person who is, or in connection with this Agreement and the matters contemplated thereby has received the advice of Persons who are, knowledgeable, sophisticated and experienced in making, and qualified to make, evaluations and decisions with respect to the quality, security and intended and expected functionality of the Designated Smart Contract and the other matters contemplated by this Agreement.
 
 (ii) Other than the representations and warranties of the other Party expressly set forth in this Section 3, the Representing Party has not relied on any statement, information, representation or warranty including oral statements, due diligence presentations, etc., or any omission of any statement, information, representation or warranty, made by or on behalf of the other Party in determining to enter into or perform this Agreement or otherwise making any evaluation or determination of the Designated Smart Contract or any other matter contemplated by this Agreement. The Representing Party understands that the other Party has not made, and has not authorized any of its representatives to make, any representation, warranty or other statement intended to be relied upon or to give rise to any claim, obligation or liability based on the accuracy or completeness thereof, other than the representations and warranties of such Party expressly set forth in this Section 3.
 
@@ -86,7 +86,7 @@ Each Party (as the "***Representing Party***") hereby represents and warrants, t
 
 (b) “**Claim**” means any past, present or future dispute, claim, controversy, demand, right, obligation, liability, action or cause of action of any kind or nature. 
 
-(c) “**Confirmation**” of a transaction shall be deemed to have occurred if and only if such transaction has been recorded in accordance with the Consensus Rules in a valid block whose hashed header is referenced by at least [ten] subsequent valid blocks on the Designated Blockchain. 
+(c) “**Confirmation**” of a transaction shall be deemed to have occurred if and only if such transaction has been recorded in accordance with the Consensus Rules in a valid block whose hashed header is referenced by at least ten subsequent valid blocks on the Designated Blockchain. 
 
 (d) “**Consensus Attack**” means an attack that: (i) is undertaken by or on behalf of a block producer who controls, or group of cooperating block producers who collectively control, a preponderance of the means of block production on the Designated Blockchain Network; and (ii) has the actual or intended effect of: (A) reversing any transaction made to or by the Designated Smart Contract after Confirmation of such transaction, including any “double spend” attack having or intended to have such effect; or (B) preventing inclusion in blocks or Confirmation of any transaction made to or by the Designated Smart Contract, including any “censorship attack,” “transaction withholding attack” or “block withholding attack” having or intended to have such effect.  
 
@@ -94,7 +94,7 @@ Each Party (as the "***Representing Party***") hereby represents and warrants, t
 
 (f) “**Contract**” means any: (i) written, oral, implied by course of performance or otherwise or other agreement, contract, understanding, arrangement, settlement, instrument, warranty, license, insurance policy, benefit plan or legally binding commitment or undertaking; or (ii) any representation, statement, promise, commitment, undertaking, right or obligation that may be enforceable, or become subject to an Order directing performance thereof, based on equitable principles or doctrines such as estoppel, reliance, or quasi-contract. 
 
-(g) “**Designated Blockchain**” means at any give time, the version of the digital blockchain ledger commonly known as “[Ethereum]” that at least a majority of nodes running the Designated Client recognize as canonical as of such time. For the avoidance of doubt, the “Designated Blockchain” does not refer to the digital blockchain ledger commonly known as “Ethereum Classic” or any other blockchain ledgers from which or to which the Designated Blockchain has been “forked” or “split”. 
+(g) “**Designated Blockchain**” means at any give time, the version of the digital blockchain ledger commonly known as “Ethereum” that at least a majority of nodes running the Designated Client recognize as canonical as of such time. For the avoidance of doubt, the “Designated Blockchain” does not refer to the digital blockchain ledger commonly known as “Ethereum Classic” or any other blockchain ledgers from which or to which the Designated Blockchain has been “forked” or “split”. 
 
 (h) “**Designated Blockchain Network**” means the Ethereum mainnet (networkID:1, chainID:1), as recognized by the Designated Client. 
 
@@ -102,7 +102,7 @@ Each Party (as the "***Representing Party***") hereby represents and warrants, t
 
 (j) “**Designated Smart Contract**” means the smart contract deployed at address [____________] on the Designated Blockchain. 
 
-(k) “**Designated Token**” means any amount equal to or greater than one Wei (i.e., one-quintillionth) of the Token commonly known as “PETH” exchanged on the Designated Blockchain. 
+(k) “**Designated Token**” means any amount equal to or greater than one Wei (i.e., one-quintillionth) of the Token commonly known as “ETH” exchanged on the Designated Blockchain. 
 
 (l) “**Legal Order**” means any restraining order, preliminary or permanent injunction, stay or other order, writ, injunction, judgment or decree that either: (i) is issued by a court of competent jurisdiction, or (ii) arises by operation of applicable law as if issued by a court of competent jurisdiction, including, in the case of clause “(ii)” an automatic stay imposed by applicable law upon the filing of a petition for bankruptcy.  
 
@@ -130,7 +130,7 @@ Each Party (as the "***Representing Party***") hereby represents and warrants, t
 
 **6. Miscellaneous**
 
-(a) *Amendments.* Any provision of this Agreement may be amended, waived or modified only upon the written consent of both of the Parties.
+(a) *Amendments.* Any provision of this Agreement may be amended, waived or modified only upon the mutual written agreement of both Parties.
 
 (b) *Notices.* Any notice required or permitted by this Agreement will be deemed sufficient when delivered personally or by overnight courier or sent by email to the relevant address listed on the signature page, or 48 hours after being deposited in the U.S. mail as certified or registered mail with postage prepaid, addressed to the Party to be notified at such Party’s address listed on the signature page, as subsequently modified by written notice.
 
